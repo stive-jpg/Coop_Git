@@ -6,4 +6,4 @@ tryin to work with git
 I may have a problem
 If i cannot commit
 
-hello
+Hello stive 
